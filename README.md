@@ -46,8 +46,12 @@ npm install
 # Lancer le serveur de développement
 npm run dev
 
-utilisateur:
+****utilisateur:
 khalid.mokhtar@example.com
+Callman1234
+
+****admin:
+haddadiabdelhak64@gmail.com
 Callman1234
 
 lien : ecole-v2.vercel.app
